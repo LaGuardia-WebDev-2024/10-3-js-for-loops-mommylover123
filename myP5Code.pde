@@ -5,7 +5,7 @@ setup = function() {
   stroke(173, 222, 237);
 
 
-
+fill(0,0,0);
 
 //for(start;how long;change)
 for(var i=0;i<400;i+=20){
